@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhoujx4)](https://github.com/zhoujx4/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zhoujx4&show_icons=true&theme=dark&count_private=true)
 
 NLP算法工程师一枚，对数学、预训练模型、文本分类、语义匹配、机器阅读理解、信息抽取、智能问答、对比学习、各种有趣的tricks 研究ing    
 
