@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-NLP算法工程师一枚，对AI中的数学、预训练模型、文本分类、语义匹配、机器阅读理解、信息抽取、智能问答、对比学习研究ing
+NLP算法工程师一枚，对数学、预训练模型、文本分类、语义匹配、机器阅读理解、信息抽取、智能问答、对比学习、各种有趣的tricks 持续研究ing
+个人博客：https://www.zhihu.com/people/zhoujx4
 
+# 目录：
 - AI中的数学
    - 《机器学习/深度学习中的矩阵求导》
    - 《从动量和矩的角度探讨优化理论的内涵(以动量法、AdaGrad和Adam举例)》
@@ -39,3 +41,11 @@ NLP算法工程师一枚，对AI中的数学、预训练模型、文本分类、
 
 - 情感分析
    - 《NLP系列之论文研读：细粒度的情感分析（ABSA）》
+
+- Rasa
+   - 《对话机器人Rasa theory（一）：介绍》
+   - 《对话机器人Rasa theory（二）：DIET nlu》
+   - 《对话机器人Rasa theory（三）：TED policy》
+   - 《对话机器人Rasa theory（四）：StartSpace，Embed All The Things!》
+   - 《对话机器人Rasa theory（五）：Universal Sentence Encoder》
+   - 《对话机器人Rasa theory（六）：Model Confidence》
