@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 NLP算法工程师一枚，对数学、预训练模型、文本分类、语义匹配、机器阅读理解、信息抽取、智能问答、对比学习、各种有趣的tricks 持续研究ing    
-继续下研究学习的过程  
 
-个人博客：https://www.zhihu.com/people/zhoujx4  
-
+个人博客：https://www.zhihu.com/people/zhoujx4   ， 记录下研究学习的过程  
 # 目录：
 - AI中的数学
    - 《机器学习/深度学习中的矩阵求导》
