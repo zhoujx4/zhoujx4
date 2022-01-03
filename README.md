@@ -1,5 +1,6 @@
 # Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/zhoujx4/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zhoujx4/count.svg)  
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zhoujx4&show_icons=true&theme=dark&count_private=true)
 
 ## About me
