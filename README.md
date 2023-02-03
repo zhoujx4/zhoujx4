@@ -8,6 +8,7 @@ NLP算法工程师一枚🤓
 **多实践、多写代码、多交流、多思考**  
 
 ## Other
-Blog：https://www.zhihu.com/people/zhoujx4  
-WeChat：ZHOU-JXX  
+公众号：NLP煎饼摊
+知乎：https://www.zhihu.com/people/zhoujx4  
+微信：ZHOU-JXX  
 欢迎大家多多交流~😊✊  
