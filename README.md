@@ -9,5 +9,5 @@ NLP算法工程师一枚🤓
 
 公众号: NLP煎饼摊  
 微信: ZHOU-JXX  
-知乎: https://www.zhihu.com/people/zhoujx4  
-谷歌学术:  https://scholar.google.com.hk/citations?hl=zh-CN&user=LBQp30IAAAAJ
+[知乎](https://www.zhihu.com/people/zhoujx4)  
+[谷歌学术](https://scholar.google.com.hk/citations?hl=zh-CN&user=LBQp30IAAAAJ)
