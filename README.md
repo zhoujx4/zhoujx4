@@ -21,3 +21,6 @@
 - Lu, Z. R., **Zhou, J.**, Wang, L., & Liu, J. (2020). [**Damage identification from static tests by eigenparameter decomposition and sparse regularization**](https://doi.org/10.1177/1475921719880980). Structural Health Monitoring, 19(5), 1351-1374.
 - Wang, L., **Zhou, J.**, & Lu, Z. R. (2020). [**A fast friction-model-inspired sparse regularization approach for damage identification with modal data**](https://doi.org/10.1016/j.compstruc.2019.106142). Computers & Structures, 227, 106142.
 - Lu, Z. R., **Zhou, J.**, & Wang, L. (2019). [**On choice and effect of weight matrix for response sensitivity-based damage identification with measurement and model errors**](https://doi.org/10.1016/j.ymssp.2018.05.007). Mechanical systems and signal processing, 114, 1-24.
+
+## 📔 专利 | Patent
+- [1]周俊贤, & 朱汝维. (2021). 一种利用命名实体识别提取营业执照结构化信息的方法.  CN112668335A.
