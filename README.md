@@ -23,4 +23,4 @@
 - Lu, Z. R., **Zhou, J.**, & Wang, L. (2019). [**On choice and effect of weight matrix for response sensitivity-based damage identification with measurement and model errors**](https://doi.org/10.1016/j.ymssp.2018.05.007). Mechanical systems and signal processing, 114, 1-24.
 
 ## 📔 专利 | Patent
-- [1]周俊贤, & 朱汝维. (2021). 一种利用命名实体识别提取营业执照结构化信息的方法.  CN112668335A.
+- [1]**周俊贤**, & 朱汝维. (2021). 一种利用命名实体识别提取营业执照结构化信息的方法.  CN112668335A.
