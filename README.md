@@ -1,9 +1,12 @@
 # 周星星 | 算法工程师 👋
 
 <p>
-  <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzhoujx4">
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/zhoujx4?style=flat-square&label=Total%20Stars">
-  <img alt="Followers" src="https://img.shields.io/github/followers/zhoujx4?style=flat-square&label=Followers">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhoujx4&theme=github_dark" alt="GitHub Profile Details">
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhoujx4&theme=github_dark" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhoujx4&theme=github_dark" alt="Repos per Language">
 </p>
 
 ## 👨‍💻 关于我 | About Me
