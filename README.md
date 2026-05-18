@@ -11,8 +11,11 @@
 
 ## 👨‍💻 关于我 | About Me
 
-做一个洞察本质的思考者 + 韧性十足的践行者。  
-Be a thinker with insight into the essence and a highly resilient doer.
+大模型算法工程师，7 年算法应用实践 + 3 年 LLM 应用实践。  
+长期关注 AI / NLP / LLM 应用与工业落地，喜欢把复杂问题拆清楚，把技术方案做扎实，再把技术故事讲得有趣一点。
+
+做一个洞察本质的思考者 + 韧性十足的践行者 + 终身学习的布道者。  
+Be a thinker with insight into the essence, a highly resilient doer, and a lifelong learner who tells technology stories with clarity and humor.
 
 ### 🔗 联系方式 | Contact
 
