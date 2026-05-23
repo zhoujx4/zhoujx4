@@ -55,6 +55,6 @@ Seven years in applied algorithm engineering — three of them on LLM systems.
 ## GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zhoujx4&show_icons=true&count_private=false&hide=issues,prs&include_all_commits=true&theme=default" alt="GitHub Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoujx4&layout=compact&theme=default" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhoujx4&theme=default" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhoujx4&theme=default" alt="Top Languages">
 </p>
